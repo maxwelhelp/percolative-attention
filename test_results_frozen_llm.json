@@ -1,0 +1,20 @@
+{
+  "model": "Qwen/Qwen2.5-0.5B",
+  "replace_layer": 6,
+  "n_layers": 24,
+  "d_model": 896,
+  "n_heads": 14,
+  "T": 66,
+  "t_critical": 0.8728813559322034,
+  "t_used": 0.9165254237288136,
+  "edges": 266,
+  "sparsity": 0.9389348025711662,
+  "train_steps": 400,
+  "train_lr": 0.005,
+  "train_final_loss": 0.00012257618072908372,
+  "train_cos_sim": 0.9848484992980957,
+  "baseline_ppl": 5.549051415572005,
+  "pcln_ppl": 5.606922416744572,
+  "delta_ppl_pct": 1.0428989900898575,
+  "verdict": "\u2705 PCLN VIABLE \u2014 PPL degradation < 5%"
+}
