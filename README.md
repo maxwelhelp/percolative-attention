@@ -2,6 +2,10 @@
 
 **Sub-quadratic Transformer Attention via Percolation Theory on Random Geometric Graphs**
 
+* **📖 Article [RU]:** [Theory and Implementation Details](https://synthcore.org/perkoljacionnoe-vnimanie/)
+* **📺 Video Explanation [RU]:**
+[![Percolation Attention](https://img.youtube.com/vi/JkSxlxzeN7w/maxresdefault.jpg)](https://youtu.be/JkSxlxzeN7w)
+
 [![Status](https://img.shields.io/badge/status-experimental-orange)]()
 
 ## Abstract
